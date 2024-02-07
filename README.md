@@ -14,3 +14,6 @@ if와 when 알아보기
 
 1.4
 function 알아보기
+
+1.5
+class와 interface 알아보기 
