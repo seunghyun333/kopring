@@ -17,3 +17,7 @@ function 알아보기
 
 1.5
 class와 interface 알아보기 
+
+
+
+2. MariaDB
