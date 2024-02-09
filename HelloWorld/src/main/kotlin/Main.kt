@@ -10,4 +10,16 @@ fun main(args: Array<String>) {
 //   j = 20
     println(i)
     println(j)
+
+
+
+    var k: Int = 10
+    var l: Int? = 10
+
+    //k = null
+    l = null
+
+    println(k)
+    println(l)
+
 }
