@@ -33,5 +33,19 @@ fun main(args: Array<String>) {
     println(m)
 
 
+    //3. 타입추론
+
+    val a = "ABC"
+    val b = 1
+    val c = 1L
+    val d = 1.0
+    var e = 1.0f
+
+
+    println("a = " + a::class)
+    println("b = " + b::class)
+    println("c = " + c::class)
+    println("d = " + d::class)
+    println("e = " + e::class)
 
 }
