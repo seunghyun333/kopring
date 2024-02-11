@@ -1,6 +1,6 @@
 package com.example.kopring.blog.dto
 
-class BlogDto (
+data class BlogDto (
     val query: String,
     val sort: String,
     val page: Int,

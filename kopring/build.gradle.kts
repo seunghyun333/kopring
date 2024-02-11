@@ -27,6 +27,9 @@ dependencies {
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
 	runtimeOnly("com.mysql:mysql-connector-j")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
+	// https://mvnrepository.com/artifact/org.springframework/spring-webflux
+	implementation("org.springframework:spring-webflux")
+
 }
 
 allOpen {
