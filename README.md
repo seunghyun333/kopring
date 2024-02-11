@@ -42,12 +42,16 @@ annotation 옵션 추가
 
 4.0 
 API 만들기 
-Maven Repository 이용
-<img width="1199" alt="image" src="https://github.com/seunghyun333/kopring/assets/128073991/01c79882-57c2-48c0-9246-9eb965b3535e">
-
 
 
 4.0 
 API 만들기
 - kakao Developers 써보기
 - DTO 만들기
+- Entity 만들기
+- Repository 만들기
+- Service 만들기
+- Controller 만들기 
+- WebClient로 카카오API 호출하기  (Maven Repository 이용)
+<img width="1199" alt="image" src="https://github.com/seunghyun333/kopring/assets/128073991/01c79882-57c2-48c0-9246-9eb965b3535e">
+
