@@ -54,4 +54,6 @@ API 만들기
 - Controller 만들기 
 - WebClient로 카카오API 호출하기  (Maven Repository 이용)
 <img width="1199" alt="image" src="https://github.com/seunghyun333/kopring/assets/128073991/01c79882-57c2-48c0-9246-9eb965b3535e">
-
+- ExceptionHandler 만들기
+- validation 추가하기
+- 검색어 순위 추가하기
