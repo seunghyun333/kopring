@@ -24,6 +24,7 @@ data class BlogDto (
 
     @field:NotNull(message = "size parameger required")
     val size: Int?
+
 ) {
 
     val query: String
