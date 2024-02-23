@@ -19,7 +19,7 @@ class BlogService(
     @Value("\${REST_API_KEY}")
     lateinit var restApiKey: String
 
-    //webclient를 사용하여 원하는 api를 호출하고 그 값을 클라이언트에게 전달하는 방식
+    //webclient를 사용하여 원하는 API를 호출하고 그 값을 클라이언트에게 전달하는 방식
     fun searchKakao(blogDto: BlogDto): String?{
         val webClient = WebClient
             .builder()
